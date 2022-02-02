@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anash Shelat
-- 👀 I’m interested in Front-End Web Development 
-- 🌱 I’m currently learning React JS and making a project with MERN stack
+- 👀 I’m a Full Stack Web Developer
+- 🌱 My preferred stack is MERN stack.
 - 💞️ I’m looking to collaborate on Any MERN project with good ideas that can actally benefit the world
 - 📫 How to reach me: <br >
       E-Mail: anashshelat@gmail.com <br >
