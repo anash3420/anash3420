@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Anash Shelat
 - 👀 I’m a Full Stack Web Developer
 - 🌱 My preferred stack is MERN stack.
-- 💞️ I’m looking to collaborate on Any MERN project with good ideas that can actally benefit the world
+- 💞️ Currently Software Development Intern at STAN and looking for opportunities that would shape my carrer
 - 📫 How to reach me: <br >
       E-Mail: anashshelat@gmail.com <br >
-      Phone: +91 9998980539 <br >
+      Phone: +91 8849029136 <br >
       LinkedIn: https://www.linkedin.com/in/anash-shelat-2378411b4/
 
 <!---
