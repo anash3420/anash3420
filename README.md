@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Anash Shelat
-- 👀 I’m a Full Stack Developer
+- 👀 I’m a Software Developer
 - 🌱 My preferred stack is MERN stack.
+-       Programming Language: Java, Python.
 - 💞️ Ex Software Development Intern at STAN and looking for opportunities that would shape my career
 - 📫 How to reach me: <br >
       E-Mail: anashshelat@gmail.com <br >
