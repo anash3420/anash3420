@@ -22,7 +22,7 @@ I am a Software Developer & Master's student in Software Engineering at Concordi
 
 - :zap: In my free time, I explore new products on product hunt and watch sci-fi documentaries!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anash-Shelat?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/anashshelat/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anash-Shelat?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anashshelat/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
